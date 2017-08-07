@@ -1,5 +1,5 @@
 public class Apex {
-	init
-
+	String a;
+	
 
 }
